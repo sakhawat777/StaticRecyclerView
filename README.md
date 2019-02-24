@@ -1,0 +1,2 @@
+# StaticRecyclerView
+RecyclerView + CardView
